@@ -272,31 +272,10 @@ GET /demo/weather-comparison
 
 ---
 
-## 📞 Q&A
-
-### 자주 묻는 질문
-
-**Q1. 정확도가 떨어지지 않나요?**
-→ 실제 날씨와 85~95% 일치, 실용적으로 충분합니다.
-
-**Q2. 배터리 소모는?**
-→ 15분마다 위치 1회 수집, 일 1~2% 소모 수준입니다.
-
-**Q3. 불규칙한 출근 시간은?**
-→ 주 3회 이상 패턴이면 학습 가능합니다.
-
-**Q4. iOS만 지원하나요?**
-→ Android, Web도 동일하게 작동합니다.
-
----
-
 <!-- _class: lead -->
 # 감사합니다! 🙏
 
 ## Zero-Click Briefing
 **클릭 없이, 설정 없이, 자동으로**
 
-### 📧 문의: chaehunjeong@example.com
-### 🔗 GitHub: [곧 공개 예정]
-
-**2024 사내 경진대회 출품작**
+### 🔗 GitHub: https://github.com/chaehunJeong/zero-click-briefing
