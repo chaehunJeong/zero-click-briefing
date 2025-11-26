@@ -2,6 +2,8 @@
 
 > 트렌드 코리아 2026 "제로클릭 시대"를 적용한 자동 아침 브리핑 앱
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/chaehunJeong/zero-click-briefing)
+
 ## 프로젝트 개요
 
 **Zero-Click Briefing**은 사용자가 아무런 설정 없이도 자동으로 생활 패턴을 학습하여 매일 아침 필요한 정보를 알림으로 제공하는 스마트 브리핑 앱입니다.
@@ -75,6 +77,13 @@
 - 필요한 순간에 자동으로 알림 전송
 
 ## 빠른 시작
+
+### 저장소 클론
+
+```bash
+git clone https://github.com/chaehunJeong/zero-click-briefing.git
+cd zero-click-briefing
+```
 
 ### 사전 요구사항
 - Java 17+

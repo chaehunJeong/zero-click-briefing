@@ -91,7 +91,7 @@
 ### 1단계: 저장소 클론
 
 ```bash
-git clone https://github.com/your-repo/zero-click-briefing.git
+git clone https://github.com/chaehunJeong/zero-click-briefing.git
 cd zero-click-briefing
 ```
 

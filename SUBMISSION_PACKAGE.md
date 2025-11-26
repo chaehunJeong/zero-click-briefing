@@ -17,8 +17,8 @@
 - Flutter Web: http://localhost:8081
 
 GitHub 저장소:
-- 백엔드: [GitHub URL]
-- 프론트엔드: [GitHub URL]
+- 통합 저장소: https://github.com/chaehunJeong/zero-click-briefing
+  (Backend + Frontend + 문서 포함)
 
 실행 파일:
 - iOS: zero_click.ipa
