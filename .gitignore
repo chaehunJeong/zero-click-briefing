@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Spring Boot
+api_sero_click/.gradle/
+api_sero_click/build/
+api_sero_click/out/
+api_sero_click/.idea/
+api_sero_click/*.iml
+api_sero_click/*.iws
+
+# Flutter
+app_zero_click/.dart_tool/
+app_zero_click/.flutter-plugins
+app_zero_click/.flutter-plugins-dependencies
+app_zero_click/.packages
+app_zero_click/build/
+app_zero_click/.idea/
+app_zero_click/ios/Pods/
+app_zero_click/ios/.symlinks/
+app_zero_click/pubspec.lock
+app_zero_click/macos/Pods/
+app_zero_click/macos/.symlinks/
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
+
+# Logs
+*.log

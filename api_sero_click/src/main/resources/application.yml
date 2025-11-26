@@ -1,0 +1,38 @@
+
+server:
+  port: 8080
+
+app:
+  ollama:
+    base-url: ${OLLAMA_BASE_URL:http://localhost:11434}
+    model: ${OLLAMA_MODEL:gpt-oss:20b}
+  weather:
+    api-key: ${OPENWEATHER_API_KEY:}
+
+spring:
+  mvc:
+    problemdetails:
+      enabled: true
+
+  # H2 Database 설정
+  datasource:
+    url: jdbc:h2:mem:zeroclick
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+
+  # JPA 설정
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  # H2 Console
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
