@@ -65,7 +65,7 @@ ollama serve
 
 ```bash
 # 저장소 클론
-git clone https://github.com/your-repo/zero-click-briefing.git
+git clone https://github.com/chaehunJeong/zero-click-briefing.git
 cd zero-click-briefing/api_sero_click
 
 # 서버 실행
@@ -362,7 +362,7 @@ cd api_sero_click
 
 ### 프로토타입 관련 문의
 
-**GitHub Issues**: [https://github.com/your-repo/zero-click-briefing/issues](https://github.com/your-repo/zero-click-briefing/issues)
+**GitHub Issues**: [https://github.com/chaehunJeong/zero-click-briefing/issues](https://github.com/chaehunJeong/zero-click-briefing/issues)
 
 **이메일**: chaehunjeong@example.com
 
