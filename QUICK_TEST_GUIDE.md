@@ -1,5 +1,7 @@
 # ⚡ 빠른 테스트 가이드 - "집에서 나가는 시간" 패턴 학습
 
+**GitHub 저장소**: https://github.com/chaehunJeong/zero-click-briefing
+
 ## 🚀 Spring Boot 서버 재시작 필수!
 
 서버를 재시작해야 새로운 패턴 감지 로직이 적용됩니다!

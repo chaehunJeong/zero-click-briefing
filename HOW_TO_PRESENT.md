@@ -1,5 +1,7 @@
 # 🎬 발표 준비 완료 가이드
 
+**GitHub 저장소**: https://github.com/chaehunJeong/zero-click-briefing
+
 ## 📋 3단계로 발표 준비하기
 
 ---

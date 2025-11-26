@@ -22,6 +22,8 @@ style: |
 
 **클릭 없이, 설정 없이, 자동으로**
 
+**GitHub**: https://github.com/chaehunJeong/zero-click-briefing
+
 ---
 
 ## 📖 트렌드 배경

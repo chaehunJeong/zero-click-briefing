@@ -1,5 +1,7 @@
 # 🎤 Zero-Click 발표 가이드
 
+**GitHub 저장소**: https://github.com/chaehunJeong/zero-click-briefing
+
 ## 📊 PPT 구성안 (10~15분 발표)
 
 ### 슬라이드 1: 표지

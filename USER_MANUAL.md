@@ -3,6 +3,8 @@
 > ⚠️ **주의**: 이 문서는 **경진대회 프로토타입 버전**입니다.
 > 실제 배포 버전이 아니며, 로컬 환경에서만 작동합니다.
 
+**GitHub 저장소**: https://github.com/chaehunJeong/zero-click-briefing
+
 ---
 
 ## 🌅 Zero-Click Briefing이란?
@@ -22,6 +24,13 @@
 ---
 
 ## 🛠️ 설치 및 실행 (개발/테스트 환경)
+
+### 0단계: 저장소 클론
+
+```bash
+git clone https://github.com/chaehunJeong/zero-click-briefing.git
+cd zero-click-briefing
+```
 
 ### 사전 요구사항
 
